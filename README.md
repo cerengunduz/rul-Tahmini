@@ -65,12 +65,11 @@ Tahmini.git
 
 ## Sonuçlar
 
-*Buraya `python src/egitim.py` çalıştırdıktan sonra `sonuclar/metrikler.txt` dosyasındaki değerleri ve `sonuclar/tahmin_grafik.png` grafiğini ekle.*
-
 | Model | RMSE (çevrim) |
 |---|---|
-| Lineer Regresyon | _buraya yaz_ |
-| Random Forest | _buraya yaz_ |
+| Lineer Regresyon | 21.68 |
+| Random Forest |18.07|
+  Değerler FD001 test seti üzerinde, her test motorunun son çevrimi için hesaplanmıştır. Random Forest, kıyas modeli olan Lineer Regresyon'dan daha düşük hata vermiştir.
 
 ## Yapılacaklar
 
