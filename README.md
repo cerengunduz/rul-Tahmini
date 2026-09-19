@@ -70,7 +70,7 @@ Tahmini.git
 | Lineer Regresyon | 21.68 |
 | Random Forest |18.07|
   Değerler FD001 test seti üzerinde, her test motorunun son çevrimi için hesaplanmıştır. Random Forest, kıyas modeli olan Lineer Regresyon'dan daha düşük hata vermiştir.
-     ![Tahmin grafiği](tahmin_grafik.png)
+![Tahmin grafiği](tahmin_grafik.png)
 
 ## Yapılacaklar
 
