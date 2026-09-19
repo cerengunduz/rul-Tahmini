@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Veri dosyaları (büyük, GitHub'a yüklenmez)
+data/*.txt
+data/*.zip
+
+# Sonuç dosyalarını isteğe bağlı olarak ekleyebilirsin
