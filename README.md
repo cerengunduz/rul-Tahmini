@@ -47,7 +47,9 @@ python src/egitim.py     # modelleri eğitir
 ### Google Colab'de çalıştırma
 
 ```python
-!git clone https://github.com/KULLANICI_ADIN/rul-tahmini.git
+!git clone
+https://github.com/cerengunduz/rul-
+Tahmini.git
 %cd rul-tahmini
 !pip install -r requirements.txt
 !python src/indir.py
@@ -79,9 +81,8 @@ python src/egitim.py     # modelleri eğitir
 - [ ] Sonuçları ve yöntemi raporla
 
 ## Yazarlar
-
-- [cerengunduz] - Endüstri Mühendisliği
-- Danışman: [Prof.Dr. Sinem Kulluk]
+cerengunduz - Endüstri Mühendisliği
+- Danışman:Prof.Dr. Sinem Kulluk
 
 ## Lisans
 
