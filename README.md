@@ -80,7 +80,7 @@ python src/egitim.py     # modelleri eğitir
 
 ## Yazarlar
 
-- [Ceren Gündüz] - Endüstri Mühendisliği
+- [cerengunduz] - Endüstri Mühendisliği
 - Danışman: [Prof.Dr. Sinem Kulluk]
 
 ## Lisans
